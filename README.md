@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahilsingh0507
-- 👀 I’m interested in competitive coding,web developement and ethical hacking
-- 🌱 I’m currently learning c++ and python
+- 👀 I’m interested in competitive coding,web developement
+- 🌱 I’m currently learning c++ and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
