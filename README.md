@@ -138,9 +138,9 @@ Complemented by a strong **Full-Stack Development** background (MERN Stack), I b
 
 ## 🏆 Achievements
 
-- 🥇 **JEE Advanced** — AIR **11,543** (General Category)
-- 🥈 **EAMCET** — Rank **1,406** (General Category)
-- 🎯 **JEE Mains** — AIR **48,643** (General Category)
+- 🥇 **JEE Advanced** — AIR **11,543**
+- 🥈 **EAMCET** — Rank **1,406**
+- 🎯 **JEE Mains** — AIR **48,643**
 
 ---
 
